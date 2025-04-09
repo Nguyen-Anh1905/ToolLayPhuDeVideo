@@ -1,4 +1,4 @@
-# 🎬 Tool Lấy Phụ Đề Video bằng AI
+# 🎬 Tool Lấy Phụ Đề Video bằng AI  #BY: Nguyễn Văn Anh
 
 Công cụ này giúp bạn **tự động tạo và dịch phụ đề cho video** sang nhiều ngôn ngữ bằng AI, sử dụng mô hình Whisper của OpenAI.
 
